@@ -1,0 +1,8 @@
+record_id,access_status,verification_status,evidence_url,checked_date,note
+G30,purchase-required,source-located,https://journals.sagepub.com/doi/10.3233/THC-THC228030,2026-04-20,Official page exposes abstract but not a clearly open full text.
+G34,open-access,verified,https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2025.1579043/full,2026-04-20,Frontiers article page provides full text and PDF.
+G35,purchase-required,source-located,https://www.sciencedirect.com/science/article/abs/pii/S1090780725001089,2026-04-20,ScienceDirect volume listing marks the article as abstract only.
+S17,purchase-required,source-located,https://doi.org/10.1002/cmr.b.20153,2026-04-20,No clearly open full text was confirmed from the official DOI route.
+S18,open-access,verified,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181552,2026-04-20,PLOS article page and PMC copy are openly accessible.
+S19,open-access,verified,https://journals.sagepub.com/doi/full/10.3233/JAE-180025,2026-04-20,Official full-text page is accessible.
+S26,open-access,verified,https://www.sciencedirect.com/science/article/pii/S2666032625000468,2026-04-20,ScienceDirect marks the paper as open access under a Creative Commons license.

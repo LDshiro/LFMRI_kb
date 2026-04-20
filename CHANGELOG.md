@@ -15,12 +15,17 @@
 - frontmatter確認、BibTeX簡易検証、索引生成、リリースバンドル作成用スクリプトを追加。
 - ハードウェア設計法調査用の検索戦略、paper noteテンプレート、evidence table、KBページを追加。
 - `literature/purchase-list.md` を追加し、購入候補論文の管理を開始。
+- `literature/source-lists/` を追加し、外部調査リストを正本として保持する intake 運用を追加。
+- `scripts/import_external_source_list.py` を追加し、registry CSV、paper note、reading list、purchase list、BibTeX への反映を自動化。
+- `gradient_and_shim_coil_design_papers_since_1990` を source-list として取り込み、62件の draft note と registry CSV を生成。
+- `kb/hardware/b0-field-control.md` を追加し、gradient / shim / shielding 関連 KB を source-list ベースで更新。
 
 ### Changed
 
 - `README.md` の初期導線と推奨ワークフローを、検索戦略、reading list、検証ステップを含む形に更新。
 - 文献運用に `access_status` と `acquisition_status` の記録方針を追加。
 - Codexのテスト実行と git 更新の承認フローを `GOVERNANCE.md`、`README.md`、`docs/` に追加。
+- README / literature docs / contribution guide に、external source list を正本、KB 反映を派生物とする運用を追加。
 
 ### Deprecated
 
