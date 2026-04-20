@@ -13,6 +13,7 @@ sources:
   - doi:
     pmid:
     url:
+    access:
 ---
 
 # ページタイトル
@@ -35,7 +36,7 @@ sources:
 
 | Claim | Evidence | Source | Status |
 |---|---|---|---|
-|  |  |  | draft |
+|  |  | `Author2024Topic [OA]` | draft |
 
 ## Methods / technical notes
 
@@ -59,6 +60,6 @@ sources:
 
 ## Source log
 
-| Date | Source | Note |
-|---|---|---|
-| 2026-04-20 | initial draft |  |
+| Date | Source | Access | Note |
+|---|---|---|---|
+| 2026-04-20 | initial draft | unknown |  |

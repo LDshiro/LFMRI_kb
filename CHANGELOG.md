@@ -13,10 +13,14 @@
 - ChatGPT Project用instructions、文献要約プロンプト、エビデンス抽出プロンプト、週次レビュー用プロンプトを追加。
 - 文献ノート、KBページ、データカード、実験ノート、ADR、週次ログのテンプレートを追加。
 - frontmatter確認、BibTeX簡易検証、索引生成、リリースバンドル作成用スクリプトを追加。
+- ハードウェア設計法調査用の検索戦略、paper noteテンプレート、evidence table、KBページを追加。
+- `literature/purchase-list.md` を追加し、購入候補論文の管理を開始。
 
 ### Changed
 
-- なし。
+- `README.md` の初期導線と推奨ワークフローを、検索戦略、reading list、検証ステップを含む形に更新。
+- 文献運用に `access_status` と `acquisition_status` の記録方針を追加。
+- Codexのテスト実行と git 更新の承認フローを `GOVERNANCE.md`、`README.md`、`docs/` に追加。
 
 ### Deprecated
 

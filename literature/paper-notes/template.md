@@ -14,10 +14,13 @@ study_type:
 field_strength:
 clinical_domain:
 evidence_level:
+access_status:
+acquisition_status:
 sources:
   - doi:
     pmid:
     url:
+    access:
 ---
 
 # 論文ノート: 論文タイトル
@@ -32,6 +35,15 @@ sources:
 - PMID:
 - URL:
 - Accessed:
+
+## Access and rights
+
+- Access status:
+- Acquisition status:
+- Full text checked: no / yes
+- Access route:
+- Alternative route:
+- Sharing restrictions:
 
 ## 1-line summary
 
@@ -90,6 +102,7 @@ sources:
 ## Action items
 
 - [ ] `literature/references.bib` に追加
+- [ ] `literature/purchase-list.md` を必要に応じて更新
 - [ ] `literature/evidence-tables/` に抽出
 - [ ] 関連する `kb/` ページへ反映
 - [ ] 関連文献をreading listに追加

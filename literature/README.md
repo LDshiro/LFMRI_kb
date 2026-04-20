@@ -7,6 +7,7 @@
 ```text
 references.bib          BibTeX正本
 reading-list.md         読むべき文献と優先度
+purchase-list.md        購入候補・取得待ち論文の管理
 search-strategies/      PubMed、Google Scholar、clinical trial検索式の記録
 paper-notes/            1論文1ファイルの構造化ノート
 evidence-tables/        研究課題別の抽出表
@@ -17,6 +18,8 @@ review-maps/            トピック地図、引用地図
 
 - 論文PDFは原則としてコミットしません。
 - DOI、PMID、URL、取得日を可能な限り記録します。
+- 文献ごとに `access_status` を記録し、`purchase-required` の候補は `purchase-list.md` に追加します。
 - ChatGPTで作成した要約は `status: draft` とし、原文確認後に昇格します。
 - 数値は、単位・抽出条件・原文の表/図/ページを記録します。
+- 抄録しか確認していない論文は、その旨を明示し、full text確認済みの論文と混同しません。
 - PubMed検索式などは再現できるように日付付きで保存します。

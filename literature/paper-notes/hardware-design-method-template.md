@@ -16,10 +16,13 @@ study_type: technical
 field_strength:
 clinical_domain: hardware
 evidence_level: technical-validation
+access_status:
+acquisition_status:
 sources:
   - doi:
     pmid:
     url:
+    access:
 ---
 
 # 論文ノート: ハードウェア設計法論文テンプレート
@@ -36,6 +39,15 @@ sources:
 - PMID:
 - URL:
 - Accessed:
+
+## Access and rights
+
+- Access status:
+- Acquisition status:
+- Full text checked: no / yes
+- Access route:
+- Alternative route:
+- Sharing restrictions:
 
 ## 1-line summary
 
@@ -119,6 +131,7 @@ sources:
 ## Action items
 
 - [ ] `literature/references.bib` に追加
+- [ ] `literature/purchase-list.md` を必要に応じて更新
 - [ ] `literature/evidence-tables/hardware-design-methods.csv` に抽出
 - [ ] `kb/hardware/design-methods.md` に反映
 - [ ] 関連する `kb/hardware/*.md` に反映

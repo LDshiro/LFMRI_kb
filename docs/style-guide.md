@@ -37,6 +37,8 @@ sources: []
 - 本文中では citation key を使う。
 - 詳細な文献情報は `literature/references.bib` に置く。
 - 可能な限り DOI / PMID / URLを記録する。
+- KBページでアクセス状態を明示したい場合は、`Author2024Topic [OA]`、`Author2024Topic [purchase-required]` のように citation key の後ろへ付記する。
+- 抄録のみ確認した文献を使う場合は、`[abstract-only]` と明記し、本文確認済みの表現を避ける。
 
 ## Status wording
 

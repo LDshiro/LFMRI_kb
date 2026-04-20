@@ -23,13 +23,23 @@ sources: []
 | P2 | 背景理解・周辺技術 | 必要に応じて要約 |
 | P3 | 参考程度 | citation mapに追加する程度 |
 
+## Access tracking
+
+| Access status | Meaning | Action |
+|---|---|---|
+| `open-access` | 本文に合法的にアクセス可能 | 通常どおり読み進める |
+| `institutional-access` | 所属機関や契約経由で入手可能 | 入手経路をメモする |
+| `purchase-required` | 個別購入または取り寄せが必要 | `purchase-list.md` に追加する |
+| `abstract-only` | 抄録または要旨のみ確認済み | full text未確認と明記する |
+| `unknown` | アクセス可否未確認 | 優先度判定前に確認する |
+
 ## Candidate papers
 
-| Priority | Citation key | Topic | Why it matters | Status | Note file |
-|---|---|---|---|---|---|
-| P0 | TBD | low-field MRI review | 分野全体の地図作成 | todo |  |
-| P0 | TBD | portable MRI clinical review | 臨床応用の整理 | todo |  |
-| P1 | TBD | reconstruction / denoising | 研究テーマ候補 | todo |  |
+| Priority | Citation key | Topic | Why it matters | Access | Acquisition | Status | Note file |
+|---|---|---|---|---|---|---|---|
+| P0 | TBD | low-field MRI review | 分野全体の地図作成 | unknown | not-needed | todo |  |
+| P0 | TBD | portable MRI clinical review | 臨床応用の整理 | unknown | not-needed | todo |  |
+| P1 | TBD | reconstruction / denoising | 研究テーマ候補 | unknown | not-needed | todo |  |
 
 ## Search refresh log
 

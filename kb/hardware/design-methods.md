@@ -82,6 +82,6 @@ sources: []
 
 ## Source log
 
-| Date | Source | Note |
-|---|---|---|
-| 2026-04-20 | initial scaffold | ハードウェア設計法の横断整理ページを追加 |
+| Date | Source | Access | Note |
+|---|---|---|---|
+| 2026-04-20 | initial scaffold | unknown | ハードウェア設計法の横断整理ページを追加 |

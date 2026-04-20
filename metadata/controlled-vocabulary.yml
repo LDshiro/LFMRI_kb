@@ -12,6 +12,22 @@ verification_status:
   - disputed
   - deprecated
 
+access_status:
+  - open-access
+  - institutional-access
+  - purchase-required
+  - abstract-only
+  - author-manuscript
+  - unknown
+
+acquisition_status:
+  - not-needed
+  - candidate
+  - requested
+  - purchased
+  - deferred
+  - skipped
+
 evidence_level:
   - not-applicable
   - not-yet-assessed

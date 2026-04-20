@@ -30,6 +30,13 @@
 - 磁場強度
 - 研究デザイン
 
+## Access and acquisition tracking
+
+- 文献ごとに `access_status` を記録します。推奨値は `open-access`、`institutional-access`、`purchase-required`、`abstract-only`、`unknown` です。
+- `purchase-required` の文献は `literature/purchase-list.md` に追加し、取得経路や保留理由を管理します。
+- 抄録しか確認していない文献は `abstract-only` とし、full text確認済みの根拠と混同しません。
+- KBページの `Source` や `Source log` では、必要に応じて citation key の後ろに `[OA]`、`[institutional]`、`[purchase-required]`、`[abstract-only]` を付けてアクセス状態を明示します。
+
 ## AI-generated content
 
 ChatGPT出力は文献検索や草稿作成に使えますが、引用根拠にはなりません。ChatGPTが提示した情報は、必ず原典へ戻って確認してください。
