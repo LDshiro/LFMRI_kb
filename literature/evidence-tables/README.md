@@ -16,6 +16,7 @@
 |---|---|
 | `neuro-low-field.csv` | 神経領域の臨床・技術エビデンス |
 | `musculoskeletal-low-field.csv` | 筋骨格領域のエビデンス |
+| `hardware-design-methods.csv` | ハードウェア設計法、設計目標、制約、検証モードの抽出表 |
 | `portable-mri-systems.csv` | ポータブル低磁場MRIシステム比較 |
 | `reconstruction-methods.csv` | 再構成・ノイズ低減・AI手法 |
 | `qa-qc-metrics.csv` | QA/QC指標とファントム評価 |
