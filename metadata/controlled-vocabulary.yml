@@ -1,0 +1,47 @@
+status:
+  - draft
+  - reviewed
+  - stable
+  - deprecated
+
+verification_status:
+  - draft
+  - needs-source
+  - source-located
+  - verified
+  - disputed
+  - deprecated
+
+evidence_level:
+  - not-applicable
+  - not-yet-assessed
+  - narrative-review
+  - systematic-review
+  - technical-validation
+  - phantom-study
+  - retrospective-clinical-study
+  - prospective-clinical-study
+  - randomized-trial
+  - guideline
+
+clinical_domain:
+  - neuro
+  - musculoskeletal
+  - body
+  - cardiac-lung
+  - pediatrics
+  - point-of-care
+  - qa-qc
+  - safety
+  - reconstruction
+  - hardware
+
+claim_type:
+  - numeric
+  - clinical-performance
+  - device-spec
+  - safety
+  - regulatory
+  - methodological
+  - general-background
+  - interpretation

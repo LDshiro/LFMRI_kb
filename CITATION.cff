@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Low-field MRI Knowledge Base"
+message: "If you use this knowledge base, please cite it using the metadata in this file."
+type: dataset
+authors:
+  - family-names: "Contributors"
+    given-names: "Low-field MRI KB"
+repository-code: "https://github.com/your-org/lowfield-mri-kb"
+abstract: "A structured knowledge base for low-field MRI literature review, methods, experiments, and research planning."
+keywords:
+  - low-field MRI
+  - magnetic resonance imaging
+  - portable MRI
+  - quantitative MRI
+  - reconstruction
+license: "CC-BY-4.0"
+version: "0.1.0"
+date-released: "2026-04-20"
